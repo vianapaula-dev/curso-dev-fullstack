@@ -1,0 +1,50 @@
+body{ 
+    background: #dfdfdf;
+    font-family: "Raleway", sans-serif;
+    color: #222
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #e7dede; /*shorthand*/
+    border-radius: 100% 100%;
+    margin: 30px;
+    padding: 10px; 
+    height: 190px;
+    box-shadow: 0px 0px 10px #0a0909; 
+}
+
+h1 {
+    margin-bottom: 0;
+    letter-spacing: -1px;
+    font-family: "PT Sans", sans-serif;
+    font-size: 40px;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: #575050;
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+
+p {
+    line-height: 25px;
+}
+
+/*.caixa{
+
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    border: 10px solid red;
+    border-radius: 10px;
+    margin: 0 auto;
+
+}*/

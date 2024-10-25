@@ -1,0 +1,31 @@
+body{ 
+    background: #dfdfdf;
+    font-family: Arial, Arial, Helvetica, 'Courier New', sans-serif;
+    color: #222
+
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px solid #e7dede; /*shorthand*/
+    border-radius: 100% 100%;
+    margin: 30px;
+    padding: 10px; 
+    height: 190px;
+    box-shadow: 0px 0px 10px #0a0909;
+  
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: #575050;
+    font-weight: 100;
+    letter-spacing: -1px;
+
+
+}
